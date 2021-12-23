@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidildefonso
-- 👀 I’m interested in become a Software Developer
+- 👀 I’m a Web Developer
 - 🌱 I’m currently learning ReactJs 
 - 💞️ I’m looking to collaborate on a project related to web development
 - 📫 How to reach me: throught github or email at david_lion_ig@outlook.com.pe
