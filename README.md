@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @davidildefonso
 - 👀 I’m a Web Developer
-- 🌱 I’m currently learning ReactJs 
-- 💞️ I’m looking to collaborate on a project related to web development
-- 📫 How to reach me: throught github or email at david_lion_ig@outlook.com.pe
+- 🌱 I’m currently learning typescript
+- 💞️ I’m looking to collaborate on an open source project
+- 📫 How to reach me: @daiglion89  ,   david_lion_ig@outlook.com.pe
 
 <!---
 davidildefonso/davidildefonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
